@@ -1,2 +1,2 @@
 # Grocery-Stores-Analysis-in-Power-BI
-This Power BI project analyzes grocery store data, offering insights through Executive Summary, Product, Sales, and Return analyses with user-friendly navigation.
+In this project, I have delved into grocery store data and crafted an Executive Summary. Additionally, I've conducted in-depth Product, Sales, and Return analyses by incorporating Power BI charts and applying DAX calculations. Through the integration of page navigation and bookmarks, I've provided a seamless user experience for exploring insights, trends, and patterns across various factors like year, country and other parameters.
