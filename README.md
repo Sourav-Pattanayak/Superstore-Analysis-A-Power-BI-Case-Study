@@ -8,7 +8,12 @@ Welcome to the Grocery Stores Analysis Power BI project! 🚀 This project is de
 
 Explore the live Power BI dashboard for real-time interaction and a deeper understanding of the grocery store data. [Click here](https://app.powerbi.com/view?r=eyJrIjoiOTA4NzgzMDMtOTEzMi00YzY5LTgyNmEtMWViMzgwZGM4YzQzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) to access the live dashboard.
 
-## Major Findings 🧐
+## Data Modelling:
+
+
+
+## Majo![Schema](https://github.com/Sourav-Pattanayak/Superstore-Analysis-A-Power-BI-Case-Study/assets/124489158/a9bca185-48a7-4d18-a5f6-f54616e358c7)
+r Findings 🧐
 
 ### 1. Profitability Metrics 💰
 
