@@ -12,8 +12,9 @@ Explore the live Power BI dashboard for real-time interaction and a deeper under
 
 
 
-## Majo![Schema](https://github.com/Sourav-Pattanayak/Superstore-Analysis-A-Power-BI-Case-Study/assets/124489158/a9bca185-48a7-4d18-a5f6-f54616e358c7)
-r Findings 🧐
+![Schema](https://github.com/Sourav-Pattanayak/Superstore-Analysis-A-Power-BI-Case-Study/assets/124489158/a9bca185-48a7-4d18-a5f6-f54616e358c7)
+
+## Major Findings 🧐
 
 ### 1. Profitability Metrics 💰
 
