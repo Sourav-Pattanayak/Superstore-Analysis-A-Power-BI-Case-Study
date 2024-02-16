@@ -1,2 +1,2 @@
-# Grocery-Stores-Analysis-in-Power-BI
+# Superstore Analysis-A Power BI Case Study
 In this project, I have delved into grocery store data and crafted an Executive Summary. Additionally, I've conducted in-depth Product, Sales, and Return analyses by incorporating Power BI charts and applying DAX calculations. Through the integration of page navigation and bookmarks, I've provided a seamless user experience for exploring insights, trends, and patterns across various factors like year, country and other parameters.
