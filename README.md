@@ -1,4 +1,4 @@
-# Grocery Stores Analysis Power BI Project 🛒📊
+# SuperStore Analysis Power BI Project 🛒📊
 
 ## Overview
 
